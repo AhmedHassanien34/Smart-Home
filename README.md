@@ -5,7 +5,7 @@
   <img src="docs/logo.png">
 </p>
 
-✅ Perform a review and leave a comment <a https://github.com/AhmedTorres2000/Smart-Home/issues">here</a></strong>
+✅ Perform a review and leave a comment <a href="https://github.com/AhmedTorres2000/Smart-Home/issues">here</a></strong>
 
 ✅ If you want to contribute, add a new record like <a href="contributing.md">here</a>. This example is for my [Tank Level Control](https://github.com/makaram99/tank-level-control) project, but the idea is the same for any project.
 
