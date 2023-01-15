@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="docs/logo.png">
+  <img src="logo.png">
 </p>
 
 ✅ Perform a review and leave a comment <a href="https://github.com/AhmedTorres2000/Smart-Home/issues">here</a></strong>
