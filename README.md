@@ -14,10 +14,10 @@
 **Done by:**
 
 1. Ahmed Mohamed Mohamed (Ahmedtorres2000@gmail.com)
-2. Mohamed Yasser Elkot (@gmail.com)
-3. Amir Mohamed Hassan (@gmail.com)
-4. Ahmed Bahgat Nagy (@gmail.com)
-5. Jasmin Saber Abd-Elqader (@gmail.com)
+2. Mohamed Yasser Elkot (my557364@gmail.com)
+3.Jasmin Saber Abd-Elqader (yasmynsabralsyd@gmail.com)
+4. Amir Mohamed Hassan (@gmail.com)
+5. Ahmed Bahgat Nagy (@gmail.com)
 
 **Under the supervision:**
 Dr. Mohamed Mahmoud Abdelwahab (‪engmohmah1961@gmail.com‬‏)
