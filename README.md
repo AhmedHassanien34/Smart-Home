@@ -14,7 +14,7 @@
 **Under the supervision:**
 Dr. Mohamed Mahmoud Abdelwahab (‪engmohmah1961@gmail.com‬‏)
 
-## 🔬 What is next?
+## 🔬 What is next ?
 
 This project will be always improved this project.
 So, if you have any suggestion, create an issue <a href="https://github.com/AhmedTorres2000/Smart-Home/issues">here</a></strong> and I will appreciate it.
