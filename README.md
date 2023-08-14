@@ -4,11 +4,6 @@
 <p align="center">
   <img src="logo.png">
 </p>
-
-✅ Perform a review and leave a comment <a href="https://github.com/AhmedTorres2000/Smart-Home/issues">here</a></strong>
-
-✅ If this needs to be improved, create an issue <a href="https://github.com/AhmedTorres2000/Smart-Home/issues">here</a></strong>
-
 ---
 
 **Done by:**
