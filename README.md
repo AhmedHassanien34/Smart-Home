@@ -1,4 +1,4 @@
-<h1 align="center">Smart Home</h1>
+<h1 align="center">Smart Home with Solar Tracking System</h1>
 
 
 
