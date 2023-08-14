@@ -1,9 +1,7 @@
 <h1 align="center">Smart Home</h1>
 
 
-<p align="center">
-  <img src="logo.png">
-</p>
+
 
 **Done by:**
 
